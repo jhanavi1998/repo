@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 1623-3F3C
+
+ Directory of C:\Users\jhanavi\Desktop\My project
+
+01/24/2022  01:11 PM    <DIR>          .
+01/24/2022  01:11 PM    <DIR>          ..
+01/24/2022  01:11 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  124,586,573,824 bytes free
